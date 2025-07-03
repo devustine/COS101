@@ -1,8 +1,5 @@
 # Introduction to Software Types and Computer Types
 
-## Session Overview
-Welcome to our third session on introduction to software types and types of computers. In this session, we will be looking at the different types of software, providing examples of each type, and identifying the differences between desktops, laptops, and mobile devices.
-
 ## What is Software?
 Software is a collection of instructions that tells a computer or electronic device what to do. All applications on our devices - mobile phones, TVs, cameras, and recording devices - contain software that provides instructions to carry out specific tasks.
 
@@ -99,10 +96,3 @@ Smartphones and tablets are developed for utmost convenience and portability. Th
 
 **Limitations:**
 Mobile devices have less processing power compared to other computers such as desktops, which is due to their smaller size and portability requirements.
-
-## Summary
-In this session, we learned about different types of software, including system software and application software. An example of system software is the operating system, while an example of application software is a word processor. We also explored different types of computers, including supercomputers, desktop computers, and laptops.
-
-This overview covers the fundamental types of software (system and application software) and the main categories of computers (supercomputers, desktops, laptops, and mobile devices). Each type serves specific purposes and is designed to meet different user needs and computing requirements.
-
-Thank you for your attention, and see you in the next class.
