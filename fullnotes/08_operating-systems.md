@@ -112,4 +112,3 @@ Similarly, the chef can instruct the assistant to fetch apples from the fridge, 
 Just as the chef tells the kitchen assistant what to do (dicing carrots, cutting vegetables, rinsing apples, or chopping potatoes), the operating system (chef) instructs the CPU (kitchen assistant) on what tasks to perform. The RAM (slab) is where information is stored temporarily, while the hard disk (fridge/freezer) is where information is stored permanently.
 
 This analogy helps us understand the relationship between the BIOS and the operating system components working together in harmony.
-Thank you very much, and I'll see you in the next class.
