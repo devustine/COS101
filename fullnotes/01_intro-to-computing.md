@@ -1,1 +1,24 @@
+# History of Computing
 
+I welcome you to the lesson on the brief history of computing and its impacts on society. I will take you on a journey through the history of computing from its origins to present day and explore its profound impact on society. The history of computing started thousands of years back with the creation of the Abacus. Abacus is a simple counting device used by the ancient Egyptians and Chinese. The emergence of mechanical calculators came to limelight in the 17th century. An example of a mechanical calculator is the Pascal. This device paved the way for modern computing.
+
+
+However, electronic computers came into limelight in the 20th century. In 1946, the electronic numerical integrator and computer was introduced, heralding a new era of computing. This computer was the world's first general proposed electronic digital computer. It was built during World War II by the United States Army during the years 1943 to 1945 at the Moore School of Electrical Engineering at the University of Pennsylvania.
+
+
+This computer focused on mathematical calculations for scientific and military purposes. In the 1960s and 1970s, mainframe computers which were large and expensive were the norm. These large computers were used by government agencies and other large organizations to process inventory, payroll, and full research. In the 1980s, we saw the emergence of a new brand of computers called personal computers. An example of such is Apple two and IBM pc.
+
+
+These computers had relatively high computing power compared to mainframe systems. This led to the creation of new industries and the transformation of existing ones. We have seen the emergence of mobile computing in the 21st century with smartphones and tablets becoming very common. This has resulted in a world where people are always connected and have access to vast amounts of information at their fingertips. The internet is arguably one of the most significant developments in computing. It has transformed the way we communicate, work, and learn. The internet has also brought people closer like never before. Social media platforms have also latched onto the internet. They have also affected the way we communicate and the way we express our opinions and views.
+
+
+Finally, we come to the present day way. Artificial intelligence is transforming the way we live and work. AI stands for artificial intelligence. It refers to replicating human thought in machines and computers. AI has been leveraged in healthcare, finance, oil and gas, and transportation. AI has the potential to change the landscape of other industries. Computing has had a huge impact on society in many ways. Here are some of the key ways that computing has impacted society.
+
+
+The first is communication. Computing has changed the way we communicate with each other. Email, instant messaging, social media, and video conferencing have made it easier than ever to connect with people all over the world. Computing has also impacted education. It has transformed education by providing access to vast amounts of information and resources. Online courses, e-learning platforms and educational apps have made it possible for people to connect, to learn new skills and subjects anywhere at any time. Next, we'll discuss the impact of computing on healthcare.
+
+
+Computing has had a significant impact on healthcare. From electronic medical records to medical imaging technologies, healthcare informatics have made it possible to store, manage, and analyze large amounts of medical data leading to better patient outcomes and more efficient healthcare delivery. Entertainment is not left out of the transformational powers of computing. Computing has transformed the entertainment industry from streaming services like Netflix and Hulu to video games and virtual reality experiences. The rise of social media platforms has also created new opportunities for content creators and influencers.
+
+
+Lastly, we will take a look at the impact of computing on business. Computing has had a profound impact on business, enabling companies to automate processes, analyze data, and connect with customers in new ways. E-commerce has transformed the way we shop, and the rise of the gig economy has created new opportunities for independent contractors and freelancers. To sum it up, computing has automated many tasks that were previously performed by humans. This automation has increased productivity, efficiency, and accuracy in a variety of industries. However, these advancements have brought new challenges such as cybersecurity, cyber bullying, and privacy concerns. It is essential to consider the impact of these technologies and work towards ensuring that their benefits are maximized while minimizing their negative impact. Thanks for watching, and I hope you've learned something new from this overview of computing and its impact on society. See you in the next class.
