@@ -49,7 +49,3 @@ Lastly, servers are computers that are designed to store, process, and manage la
 Cloud computing is becoming an increasingly popular way for businesses to access server resources without having to maintain their own physical hardware. Cloud servers are hosted by third-party providers, which means you can essentially rent computing resources from third-party providers who manage and maintain the physical infrastructure and software that make up the cloud computing environment.
 
 One great benefit of cloud computing is that it eliminates the burden of having to purchase and maintain your own hardware and software. You can leverage the infrastructure and resources of a cloud provider to run your applications, store and manage your databases, host websites, manage cloud-based applications, and access numerous computing resources.
-
-## Conclusion
-
-In conclusion, software and hardware play crucial roles in the different types of computers we have. As technology continues to evolve, we can expect to see even more types of computers in the future.
