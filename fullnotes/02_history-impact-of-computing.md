@@ -1,11 +1,5 @@
 # A Brief History of Computing and Its Impact on Society
 
-# History of Computing and Its Impact on Society
-
-## Introduction
-
-Hello everyone. Welcome to our fifth session and introduction to computing CSE 101. In today's session, we are going to look at a brief history of computing and its impact on society. Before we begin, let's look at our learning objectives. The first will be to explain the historical development of computing technologies. The second will be to highlight the impact of computing technologies on various industries, including healthcare, education, and entertainment. Lastly, we'll highlight the downsides of computing technologies. So let's start here with a history of computing.
-
 ## Early Computing History
 
 Computing may be traced back to prehistoric times when humans employed machines such as the abacus to carry out mathematical computations. The abacus is a mechanical device that is used for counting. As you can see, the abacus has a wooden framework with two sections. The lower section has beads arranged in groups of five for counting units (1, 2, 3, 4, 5), while the upper section has beads arranged in groups for counting in fives (5, 10, 15, 20, 25), tens (10, 20, 30, 40, 50), and fifties (50, 100, etc.).
@@ -75,9 +69,3 @@ To stop the sharing of sensitive information, passwords should not be shared bey
 
 ### General Cybersecurity Measures
 Ensure you have security hardware and software installed on your network to safeguard your infrastructure and protect against various cyber threats.
-
-## Conclusion
-
-In summary, we have discussed the historical development of computing technologies and explored the benefits of computers in different sectors such as healthcare, education, and entertainment. We have also examined the challenges and ethical implications associated with computing technologies, including cybersecurity threats, cyberbullying, and privacy concerns, along with strategies to mitigate these risks.
-
-Thank you very much for your attention. See you next time.
