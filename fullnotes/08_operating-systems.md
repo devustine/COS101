@@ -1,9 +1,5 @@
 # Operating Systems
 
-## Introduction
-
-Hi everyone and welcome to session five. In this session, we're going to be discussing an overview of operating systems. The learning objectives are to define operating systems, outline the core functions of the operating system, and lastly, to discuss the core components of an operating system.
-
 ## What is an Operating System?
 
 An operating system is software that manages hardware resources, such as your RAM, your processor, your monitor, and your hard disk. An operating system exists virtually in all computers. We have operating systems on our mobile phones, on servers, on desktops, and on laptops - virtually all computers have this software.
@@ -116,15 +112,4 @@ Similarly, the chef can instruct the assistant to fetch apples from the fridge, 
 Just as the chef tells the kitchen assistant what to do (dicing carrots, cutting vegetables, rinsing apples, or chopping potatoes), the operating system (chef) instructs the CPU (kitchen assistant) on what tasks to perform. The RAM (slab) is where information is stored temporarily, while the hard disk (fridge/freezer) is where information is stored permanently.
 
 This analogy helps us understand the relationship between the BIOS and the operating system components working together in harmony.
-
-## Summary
-
-In this session, we covered:
-
-1. **Definition of Operating Systems**: Software that manages hardware resources and enables user interaction with computer systems
-2. **Core Functions**: Process management, hardware management, memory management, file management, networking, and security
-3. **Core Components**: Boot loader, kernel, services/daemons, and shell
-
-We've been able to connect these concepts and relate them to the overall sequence of how operating systems function. For further reading, you can explore additional resources on these topics.
-
 Thank you very much, and I'll see you in the next class.
