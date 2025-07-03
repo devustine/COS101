@@ -1,11 +1,5 @@
 # Introduction to Computer Hardware Components
 
-# Introduction to Computer Hardware - Lecture Transcript
-
-Hi everyone, and welcome to our second session. In this session, we are going to be discussing introduction to computer hardware.
-
-Before we begin, let me walk you through the learning objectives. The first is to discuss the basic components of the computer system, including input and output devices, central processing units (also known as processors), memory, and storage devices. We will also identify the different types of input and output devices, and explain the role of a processor in a computer system.
-
 ## What is Computer Hardware?
 
 Computer hardware refers to the physical parts of a computer that we can see. We can see the monitor, mouse, keyboard, and if you open up the computer, you can also see the CPU (processor), memory, and power supply. These are things we're going to be discussing.
@@ -103,16 +97,3 @@ That's the function of the BIOS software that resides in the ROM.
 The power unit supplies power to all the components that require power. This includes the fan that cools the operating system and processor, as well as other key components such as the processor itself. These components require power, and the power unit naturally supplies power to those parts so they can carry out their functions.
 
 If you're using a laptop, you would find batteries that provide power from the battery source. For desktop computers, the power unit is usually seen as an external component.
-
-## Session Summary
-
-That's it for this session. In this session, we've looked at computer parts including:
-
-- The processor
-- Input and output devices  
-- Memory (RAM and ROM)
-- Power units
-
-These components work together to keep the computer operational and running, expanding the functions of the CPU or processor.
-
-Thank you very much, and I'll see you in the next class.
