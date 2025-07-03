@@ -1,9 +1,5 @@
 # Introduction to Hardware, Software and Computer Types
 
-# Hardware, Software, and Computer Types
-
-In a world where technology is advancing at an unprecedented rate, it is essential to have a clear understanding of these concepts and their overall effect in the digital world. Let's begin with hardware, which refers to the physical components of a computer.
-
 ## Hardware Components
 
 A few examples of hardware are CPU, memory storage devices, and input and output devices. An integral part of the computer is the CPU, which is the brain of the computer responsible for executing instructions and controlling the flow of data. The CPU communicates with other components through a bus, which acts like a data highway.
