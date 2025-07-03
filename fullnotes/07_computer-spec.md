@@ -9,7 +9,7 @@ I'll run you through the learning objectives, but first is to discuss different 
 ## Processor (CPU)
 So let's start with the first component, which is the processor. The processor determines how fast your computer processes instructions, isn't it? You want your application to run really fast. You want your 3D rendering to run very, very fast. You want a graphics application to render really fast.
 
-So you will have to pay attention to your processor specification instructions. Instructions that you want to run pretty fast could be work editing documents, processing game graphics in real time. So you want to process things in real time, then you have to pay attention to your processor specification.
+So you will have to pay attention to your processor specification instructions. Instructions that you want to run pretty fast could be word editing documents, processing game graphics in real time. So you want to process things in real time, then you have to pay attention to your processor specification.
 
 Processors can have multiple cores. And so that means you have a processor within that unit you have subunits too. So it could be three subunits, four subunits, eight subunits within a particular processor. The objective is to split processing or enhance performance. And so you want to render things in real time.
 
