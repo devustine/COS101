@@ -3,7 +3,7 @@
 
 ## What is an Algorithm?
 
-So let's start. What is an algorithm? An algorithm is a step-by-step process of solving a problem efficiently and systematically.
+An algorithm is a step-by-step process of solving a problem efficiently and systematically.
 
 An example of a problem might be that you want to develop an e-commerce application. The step-by-step process that an algorithm would allow might be: login to this e-commerce website, once you've logged in, browse through the products, populate the shopping cart, check out, make payments, and the payment is converted. That's a step-by-step process, and that step-by-step process is captured by an algorithm.
 
