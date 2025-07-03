@@ -1,10 +1,4 @@
-# Computer Specifications and Choosing a Computer - Session 4
-
-## Introduction
-Hi everyone and welcome to session four. In this session you're going to be discussing computer specifications and choosing a computer.
-
-## Learning Objectives
-I'll run you through the learning objectives, but first is to discuss different types of computer specifications and also to outline the factors to consider when choosing a computer. And lastly, to analyze the role of RAM in a computer system. And so we'll shed light on choosing the right computer phase on its major components and would also look at computer types within the context of hardware specifications.
+# Computer Specifications and Choosing a Computer
 
 ## Processor (CPU)
 So let's start with the first component, which is the processor. The processor determines how fast your computer processes instructions, isn't it? You want your application to run really fast. You want your 3D rendering to run very, very fast. You want a graphics application to render really fast.
@@ -122,9 +116,3 @@ So mobile devices might also suit you if you would like to be on mobile, checkin
 So all you're doing really is to check internet, respond and reach people's requests, respond to people's notes. And you could also do some social networking when you are online - social networking applications such that you're able to respond to queries from clients in that social media space.
 
 If that is what you do, then a mobile device would suit you.
-
-## Summary
-
-Yes. So in summary we've discussed different types of computer specifications and we also outlined the factors to consider when choosing a computer. And so you have the hard disk, you have the processor, you have the RAM, and you also have the GPU. So these are the main factors you have to consider when choosing the computer and also the task at hand. What task are you doing when you're developing games or what you do is just to check your news or store files and things like that. Yeah. So we also analyzed the role of RAM.
-
-So RAM helps you to perform operations in parallel. You're doing visual editing, you also listen to audio files at the same time you're uploading a file to the internet and you're doing things in real time and in parallel to your RAM. Your RAM allows you to take out these tasks. And so thank you very much and I see you next time.
