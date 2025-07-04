@@ -30,7 +30,7 @@ The first processor, the Intel 4004, was developed in 1971 with:
 The unit of processor speed is measured in hertz. This means that it can process 106,000 instructions per second. So if you send a particular instruction to your processor, such as adding two plus two, it can process that 106,000 times per second, which was quite fast at that time.
 
 ### How the CPU Works
-These instructions are sent to the processor by the operating system. The processor follows these steps:
+The processor follows these steps:
 
 1. **Decodes instructions**: Understanding the task at hand.
 2. **Executes instructions**: Once decoded, it begins to execute them.
