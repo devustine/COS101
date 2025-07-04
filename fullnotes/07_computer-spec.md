@@ -49,7 +49,7 @@ You Need a GPU, when:
 And you think that your normal processor wouldn't help you in that regard. Clearly you would have to use a GPU such that the rendering is done in real time.
 
 ### GPU for Data Science
-And the GPU was also needed to, if you're gonna be doing some deep learning. So for those in data science, you're doing some training and things like that to enhance or to make it faster to make the training faster. I mean to make it go faster, clearly you can also use the GPU to enhance the training process.
+So for those in data science, you're doing some training and things like that to enhance or to make it faster to make the training faster. I mean to make it go faster, clearly you can also use the GPU to enhance the training process.
 
 ### Who Needs a GPU
 Yeah, so a GPU, basically if you're:
