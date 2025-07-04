@@ -2,7 +2,7 @@
 
 ## Processor (CPU)
 
-The processor determines how fast your computer processes instructions, isn't it? You want your application to run really fast. You want your 3D rendering to run very, very fast. You want a graphics application to render really fast.
+The processor determines how fast your computer processes instructions. You want your applications to run really fast especially tasks like 3D rendering or graphics applications, which need to process and render very quickly.
 
 ### Why Processor Speed Matters
 It is important to pay attention to your processor specifications. Instructions that you want to run pretty fast could be:
