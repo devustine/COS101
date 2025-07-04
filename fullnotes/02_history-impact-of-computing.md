@@ -1,7 +1,5 @@
 # A Brief History of Computing and Its Impact on Society
 
-## Early Computing History
-
 ### The Abacus
 Computing may be traced back to prehistoric times when humans employed machines such as the abacus to carry out mathematical computations. The abacus is a mechanical device that is used for counting. As you can see, the abacus has a wooden framework with two sections:
 
