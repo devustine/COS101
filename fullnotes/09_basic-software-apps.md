@@ -2,79 +2,230 @@
 
 ## What are Basic Software Applications?
 
-Basic software applications provide fundamental functionality such as creating documents, working with data on an Excel sheet, or editing information for presentations or sending emails. For example, creating documents could be for writing letters to clients, essays that you submit to your supervisor, or data viewing tools. You have particular data on an Excel sheet, and after doing some cleaning, you're now viewing that data. It could also be editing information for presentations, just like I'm doing now using PowerPoint to project this session.
+Basic software applications provide fundamental functionality such as creating documents, working with data on an Excel sheet, or editing information for presentations or sending emails.
+
+### Examples of Basic Software Applications
+- **Creating documents**: Writing letters to clients, essays that you submit to your supervisor
+- **Data viewing tools**: You have particular data on an Excel sheet, and after doing some cleaning, you're now viewing that data
+- **Editing information for presentations**: Just like I'm doing now using PowerPoint to project this session
 
 These are basic software applications that can help you with editing, data viewing, and other tasks.
 
 ## Word Processors
 
-The first application we're going to look at is the word processor. The word processor is a software application for editing, formatting, and creating text. You would naturally use word processors to edit, format, and create text. They are typically useful for creating official letters and essays. 
+The word processor is a software application for editing, formatting, and creating text. You would naturally use word processors to edit, format, and create text.
 
-For example, if you want to write a letter to a client, you would use a word processor. You write your letter, insert words, add statements, and similar tasks. You can also embed tables and graphs. Once you're done, you send it to your client. It could also be in the form of essays that you write and send to your supervisor or instructor.
+### Primary Uses
+They are typically useful for:
+- Creating official letters
+- Writing essays
 
-Word processors help with academic writing and assignments. You would naturally use word processors to write and implement your assignments. They also support inserting hyperlinks, so you can embed hyperlinks that your supervisor or clients can click to refer to external resources.
+#### Examples of Use
+- **Client letters**: If you want to write a letter to a client, you would use a word processor. You write your letter, insert words, add statements, and similar tasks
+- **Academic work**: Essays that you write and send to your supervisor or instructor
 
-You can also insert tables depicting data and pictures for illustration. You can insert basic diagrams like bar charts, pie charts, and histograms - things you can embed in word processors.
+### Features of Word Processors
+Word processors help with academic writing and assignments. You would naturally use word processors to write and implement your assignments. They also support:
 
-Microsoft Word is a popular word processor from Microsoft. As you can see, it has different tabs including File (for saving), Home (for formatting text), Insert (for inserting images and tables), Draw (for design), Design (for layout), Layout (for arranging content), and References (for academic citations). There's also a Review tab and Help tab to navigate through Microsoft Word.
+#### Text and Media Features
+- **Inserting hyperlinks**: You can embed hyperlinks that your supervisor or clients can click to refer to external resources
+- **Tables and pictures**: You can insert tables depicting data and pictures for illustration
+- **Basic diagrams**: Bar charts, pie charts, and histograms - things you can embed in word processors
 
-Word processors are very popular software, used by advanced users, academics, and novices alike. You would always use word processors for writing. Word processors can be installed on personal computers, or you can find them online. You can buy and install them on your personal computer or use online versions.
+### Microsoft Word Example
+Microsoft Word is a popular word processor from Microsoft. It has different tabs including:
+- **File**: For saving
+- **Home**: For formatting text
+- **Insert**: For inserting images and tables
+- **Draw**: For design
+- **Design**: For layout
+- **Layout**: For arranging content
+- **References**: For academic citations
+- **Review tab**: For reviewing content
+- **Help tab**: To navigate through Microsoft Word
 
-Examples of word processors include Microsoft Word, Google Docs, and Apple Pages.
+### Accessibility and Usage
+Word processors are very popular software, used by:
+- Advanced users
+- Academics
+- Novices alike
+
+You would always use word processors for writing.
+
+### Installation Options
+Word processors can be:
+- **Installed on personal computers**: You can buy and install them on your personal computer
+- **Used online**: You can use online versions
+
+### Examples of Word Processors
+- Microsoft Word
+- Google Docs
+- Apple Pages
 
 ## Spreadsheets
 
-Next, we look at spreadsheets. Users of spreadsheets can arrange, examine, and modify data in a table format. Within a spreadsheet, you have your data, and you can examine it, arrange it by adding or deleting columns, and edit it. You can also check if the data is correct and modify it as needed.
+Users of spreadsheets can arrange, examine, and modify data in a table format. Within a spreadsheet, you have your data, and you can:
+- Examine it
+- Arrange it by adding or deleting columns
+- Edit it
+- Check if the data is correct and modify it as needed
 
-Spreadsheets provide functionalities for calculations, data validation, and sorting. You can sort your data in ascending order, descending order, or custom arrangements. This includes sorting and filtering tools. You can also display your data through charts and graphs. You can highlight particular data and select the design or display format you want - whether charts, graphs, or histograms.
+### Spreadsheet Functionalities
+Spreadsheets provide functionalities for:
+- **Calculations**
+- **Data validation**
+- **Sorting**: You can sort your data in ascending order, descending order, or custom arrangements
+- **Filtering tools**
+- **Data visualization**: You can display your data through charts and graphs
 
-A typical spreadsheet has columns (like Column B and Column C) with data such as claims services, orders, car life, and household health. You can have quantitative data, and once you have that data, you can make projections and graphs to present to clients. Spreadsheets come in handy for this purpose.
+#### Data Visualization Process
+You can highlight particular data and select the design or display format you want - whether charts, graphs, or histograms.
 
-Microsoft Excel is a typical example of a spreadsheet. Spreadsheets also allow developers to create custom functions. For example, you can create a timetable management function. If you're using Excel for timetable management and have selected a particular time slot (say 3:00 PM to 4:00 PM) for "Introduction to Computing," and another teacher tries to create a teaching slot at that same time, the system would give a warning that the time slot has already been allocated.
+### Spreadsheet Structure
+A typical spreadsheet has:
+- **Columns**: Like Column B and Column C
+- **Data examples**: Claims services, orders, car life, and household health
+- **Quantitative data**: Once you have that data, you can make projections and graphs to present to clients
 
-These are functionalities you can explore with spreadsheets, though they're advanced features. Popular spreadsheet programs include Google Sheets, Apple Numbers, and Microsoft Excel.
+Spreadsheets come in handy for this purpose.
+
+### Microsoft Excel Example
+Microsoft Excel is a typical example of a spreadsheet.
+
+### Advanced Features
+Spreadsheets also allow developers to create custom functions.
+
+#### Custom Function Example
+For example, you can create a timetable management function:
+- If you're using Excel for timetable management and have selected a particular time slot (say 3:00 PM to 4:00 PM) for "Introduction to Computing"
+- And another teacher tries to create a teaching slot at that same time
+- The system would give a warning that the time slot has already been allocated
+
+These are functionalities you can explore with spreadsheets, though they're advanced features.
+
+### Popular Spreadsheet Programs
+- Google Sheets
+- Apple Numbers
+- Microsoft Excel
 
 ## Presentation Tools
 
-Presentation tools help develop visual presentations with slides, images, and multimedia components. An example is PowerPoint. Users can create interesting and engaging slides with embedded animations, images, and videos, making presentations interactive. These tools help keep conversations open and running.
+Presentation tools help develop visual presentations with slides, images, and multimedia components.
 
-The most popular presentation tools are Apple Keynote, Google Slides, and Microsoft PowerPoint. Just as I mentioned, I'm using Microsoft PowerPoint to create this presentation.
+### What Presentation Tools Do
+An example is PowerPoint. Users can create interesting and engaging slides with:
+- Embedded animations
+- Images
+- Videos
 
-PowerPoint allows you to add graphs and project data. Like Microsoft Word, it has different tabs including File, Home, Insert, Draw, Design, Transitions (for animations and slideshow effects), and additional features for recording audio and reviewing content. You can embed audio into your PowerPoint presentations.
+Making presentations interactive. These tools help keep conversations open and running.
+
+### Popular Presentation Tools
+- Apple Keynote
+- Google Slides
+- Microsoft PowerPoint
+
+### PowerPoint Features
+PowerPoint allows you to:
+- Add graphs and project data
+- Use different tabs including:
+  - **File**
+  - **Home**
+  - **Insert**
+  - **Draw**
+  - **Design**
+  - **Transitions**: For animations and slideshow effects
+  - **Additional features**: For recording audio and reviewing content
+
+You can embed audio into your PowerPoint presentations.
 
 ## Web Browsers
 
-Web browsers are tools that provide a platform to access information on the internet. You naturally use web browsers to access files, download materials from websites, watch films, and access online services. Whether you want to buy your favorite bag, shoes, or t-shirt, you would go through a web browser.
+Web browsers are tools that provide a platform to access information on the internet.
 
-Web browsers provide platforms to access information on the internet. Users can access any information, including accessing doctors remotely through e-commerce applications, watching videos from entertainment websites, and similar activities.
+### What Web Browsers Do
+You naturally use web browsers to:
+- Access files
+- Download materials from websites
+- Watch films
+- Access online services
 
-Popular web browsers include Google Chrome, Mozilla Firefox, Microsoft Edge, and Apple Safari. These browsers give you access to the internet and help you find resources online from e-commerce and web applications.
+Whether you want to buy your favorite bag, shoes, or t-shirt, you would go through a web browser.
+
+### Web Browser Capabilities
+Web browsers provide platforms to access information on the internet. Users can access any information, including:
+- Accessing doctors remotely through e-commerce applications
+- Watching videos from entertainment websites
+- Similar activities
+
+### Popular Web Browsers
+- Google Chrome
+- Mozilla Firefox
+- Microsoft Edge
+- Apple Safari
+
+These browsers give you access to the internet and help you find resources online from e-commerce and web applications.
 
 ## Email Clients
 
-Email client applications allow users to receive and send email messages. They help you send information to others and receive information as well. Email clients provide capabilities including email composition - you can compose messages, send them, and the receiver gets them with proper formatting.
+Email client applications allow users to receive and send email messages.
 
-You can do formatting similar to what we've seen in Microsoft Word. You can also do contact management and set up filters. Sometimes when you're out of office, you can set up automatic responses. When someone sends you an email, your system can automatically send back a pre-prepared message.
+### Primary Functions
+They help you:
+- Send information to others
+- Receive information as well
 
-Popular email clients include Apple Mail, Gmail, and Microsoft Outlook.
+### Email Client Capabilities
+Email clients provide capabilities including:
+
+#### Email Composition
+- **Message creation**: You can compose messages, send them, and the receiver gets them with proper formatting
+- **Formatting**: You can do formatting similar to what we've seen in Microsoft Word
+
+#### Management Features
+- **Contact management**: Organize your contacts
+- **Filters**: Set up filters for organizing emails
+- **Automatic responses**: Sometimes when you're out of office, you can set up automatic responses. When someone sends you an email, your system can automatically send back a pre-prepared message
+
+### Popular Email Clients
+- Apple Mail
+- Gmail
+- Microsoft Outlook
 
 ## File Compression Tools
 
-File compression programs are used to compress or archive files and directories to make them smaller for storage or transport. Sometimes you have very large files (for example, a file size of five gigabytes) that you want to send to a client remotely over the internet. It makes sense to have file compression tools that can compress that file size to maybe one gigabyte.
+File compression programs are used to compress or archive files and directories to make them smaller for storage or transport.
 
-File compression tools are also capable of extracting files from compressed archives. Once you compress and send the file, the receiver can unpack it to review the original document. You compress the file, send it over the internet, and once it reaches the destination, you use the same application to decompress it. When you unzip the file (that's the technical term), the client will be able to access the files and they will be revealed to your clients or business partners.
+### Why Use File Compression?
+Sometimes you have very large files (for example, a file size of five gigabytes) that you want to send to a client remotely over the internet. It makes sense to have file compression tools that can compress that file size to maybe one gigabyte.
 
-Examples of file compression tools include WinRAR, 7-Zip, and WinZip. These tools help you compress files so that the file size is significantly reduced.
+### Compression and Extraction
+File compression tools are also capable of extracting files from compressed archives.
 
-Sometimes when you want to send an email with file attachments, the files could be hundreds of megabytes or even larger. You can use compression tools to reduce the file size from, say, a hundred megabytes down to 50 megabytes, or further compress 50 megabytes down to 5 or 10 megabytes. Once you've completed the compression operation, you can send it as an attachment. At the receiving end, the attachment can be unzipped and the files will be revealed.
+#### How the Process Works
+1. **Compression**: You compress the file, send it over the internet
+2. **Decompression**: Once it reaches the destination, you use the same application to decompress it
+3. **Access**: When you unzip the file (that's the technical term), the client will be able to access the files and they will be revealed to your clients or business partners
 
-You can compress all your files into a particular folder. Once you finish zipping, you collect all the files, compress them, zip them, and send them through the internet rather than attaching each file individually to an email.
+### Examples of File Compression Tools
+- WinRAR
+- 7-Zip
+- WinZip
 
-## Summary
+These tools help you compress files so that the file size is significantly reduced.
 
-In summary, we have looked at the basic software applications including:
+### Practical Email Example
+Sometimes when you want to send an email with file attachments, the files could be hundreds of megabytes or even larger. You can use compression tools to:
 
-- **PowerPoint, Excel, and Microsoft Word** (word processors)
-- **Web browsers**
-- **Email software** for sending emails
-- **File compression applications** that help you compress files
+#### File Size Reduction
+- Reduce the file size from, say, a hundred megabytes down to 50 megabytes
+- Further compress 50 megabytes down to 5 or 10 megabytes
+- Once you've completed the compression operation, you can send it as an attachment
+- At the receiving end, the attachment can be unzipped and the files will be revealed
+
+#### Batch Compression
+You can compress all your files into a particular folder. Once you finish zipping:
+- You collect all the files
+- Compress them
+- Zip them
+- Send them through the internet rather than attaching each file individually to an email
