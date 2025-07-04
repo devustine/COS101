@@ -47,8 +47,6 @@ Tablets, laptops, and smartphones are typical examples of portable hardware. The
 
 ## Software
 
-Now it's time to discuss software.
-
 ### What is Software?
 Software is a combination of code and data that provides instructions to computers on what kinds of tasks to carry out.
 
