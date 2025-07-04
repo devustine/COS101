@@ -18,7 +18,7 @@ Next is the memory or random access memory (RAM).
 - **Performance**: The more RAM you have, the better your computer's performance will be.
 
 ### Storage Devices
-Storage devices are examples of hardware that are typically used to store information permanently.
+Storage devices are examples of hardware that are typically used to store information permanently. Some examples are Hard Drives and Solid State Drives
 
 #### Hard Drives
 Hard drives store information such as:
