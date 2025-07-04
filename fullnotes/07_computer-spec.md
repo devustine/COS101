@@ -41,10 +41,8 @@ So these days, an i7 processor has a speed of about four gigahertz. This means i
 
 ## Graphics Processing Unit (GPU)
 
-So another component we're gonna be looking at is the graphical processing unit, the GPU. Yeah.
 
-### When You Need a GPU
-So when you need that, when one desires enhanced performance in terms of rendering images faster in real time, when:
+You Need a GPU, when:
 - Playing games on a computer
 - Doing complex graphics rendering
 
