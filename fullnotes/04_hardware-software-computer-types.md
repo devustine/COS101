@@ -12,25 +12,25 @@ An integral part of the computer is the CPU, which is the brain of the computer 
 The CPU communicates with other components through a bus, which acts like a data highway.
 
 ### Memory (RAM)
-Next is the memory or random access memory (RAM). 
-- **Function**: It stores information temporarily and is essential so that the CPU can access information stored on it for processing
-- **Multi-tasking**: RAM allows the CPU to run multiple programs at once
-- **Performance**: The more RAM you have, the better your computer's performance will be
+Next is the memory or random access memory (RAM).
+- **Function**: It stores information temporarily and is essential so that the CPU can access information stored on it for processing.
+- **Multi-tasking**: RAM allows the CPU to run multiple programs at once.
+- **Performance**: The more RAM you have, the better your computer's performance will be.
 
 ### Storage Devices
-Let's move on to storage devices. Storage devices are examples of hardware that are typically used to store information permanently.
+Storage devices are examples of hardware that are typically used to store information permanently.
 
 #### Hard Drives
 Hard drives store information such as:
 - Operating systems
 - Files
 - Videos
-- Other types of data for a very long time
+- Other types of data for a very long time.
 
 #### Solid State Drives (SSDs)
 An alternative to traditional hard drives is solid state drives, otherwise known as SSDs.
-- **Advantages**: SSDs are becoming increasingly popular due to their faster read and write speeds
-- **Disadvantages**: Although they're typically more expensive
+- **Advantages**: SSDs are becoming increasingly popular due to their faster read and write speeds.
+- **Disadvantages**: Although they're typically more expensive, they offer better performance.
 
 ### Input Devices
 Input devices allow information to flow into a computer system. Examples include:
@@ -50,24 +50,24 @@ Tablets, laptops, and smartphones are typical examples of portable hardware. The
 Now it's time to discuss software.
 
 ### What is Software?
-Software is a combination of code and data that provides instructions to computers on what kind of tasks to carry out.
+Software is a combination of code and data that provides instructions to computers on what kinds of tasks to carry out.
 
 ### Types of Software
 There are two types of software: system software and application software.
 
 #### System Software
-- **Definition**: System software is closer to the hardware
-- **Example**: The operating system
-- **Function**: The system software also creates a platform for applications to run
+- **Definition**: System software is closer to the hardware.
+- **Example**: The operating system.
+- **Function**: The system software also creates a platform for applications to run.
 
 #### Application Software
-- **Definition**: Application software is designed to perform specific tasks
-- **Examples**: Microsoft Excel and Microsoft Word, which typically run on your operating system
+- **Definition**: Application software is designed to perform specific tasks.
+- **Examples**: Microsoft Excel and Microsoft Word, which typically run on your operating system.
 
 ### Importance of Software
-- Without software, hardware is seen as just an electronic component
-- Software assigns tasks to hardware, which in turn executes them
-- Without software, hardware is completely useless
+- Without software, hardware is seen as just an electronic component.
+- Software assigns tasks to hardware, which in turn executes them.
+- Without software, hardware is completely useless.
 
 ## Computer Types
 
@@ -81,7 +81,7 @@ Desktop computers are the oldest type of computers and are typically found in:
 - Homes
 
 #### Advantages of Desktop Computers
-- Because they're stationary, they may have extra hardware devices, making them execute instructions faster than laptops
+- Because they're stationary, they may have extra hardware devices, making them execute instructions faster than laptops.
 - As a result, they are used for complex tasks such as:
   - Gaming
   - Content creation
@@ -95,7 +95,7 @@ Laptop computers are smaller compared to desktop computers and are developed to 
 - Since most are lightweight, they are perfect for:
   - Students
   - Professionals
-  - Anyone who would like to work on the go
+  - Anyone who would like to work on the go.
 
 #### Performance Considerations
 - Laptops are sometimes less powerful than desktop computers, so they are typically used for less complex tasks like:
@@ -110,13 +110,13 @@ However, laptops now have portable add-ons that can make them very powerful, suc
 Mobile devices, including smartphones and tablets, fall into this category.
 
 #### Design Features
-- They're developed for maximum convenience to be used on the go
+- They're developed for maximum convenience to be used on the go.
 - Carry out lightweight tasks like:
   - Sending emails
   - Playing lightweight games
   - Video streaming
   - Chatting
-- Their sleek designs allow them to easily fit into our pockets or small handbags
+- Their sleek designs allow them to easily fit into our pockets or small handbags.
 
 #### Performance
 Mobile devices have less processing power when compared to other computers such as desktops.
@@ -133,8 +133,8 @@ They're typically used in businesses and organizations to store and manage data 
 
 #### Server Types
 Servers can be:
-- **Physical machines**: Located in data centers
-- **Cloud-hosted machines**: Machines that are hosted in the cloud
+- **Physical machines**: Located in data centers.
+- **Cloud-hosted machines**: Machines that are hosted in the cloud.
 
 ## Cloud Computing
 
