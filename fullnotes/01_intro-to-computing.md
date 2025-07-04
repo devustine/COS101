@@ -96,5 +96,3 @@ However, these advancements have brought new challenges such as:
 - Privacy concerns
 
 It is essential to consider the impact of these technologies and work towards ensuring that their benefits are maximized while minimizing their negative impact.
-
-Thanks for watching, and I hope you've learned something new from this overview of computing and its impact on society. See you in the next class.
