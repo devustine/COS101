@@ -12,12 +12,12 @@ It is important to pay attention to your processor specifications. Instructions 
 So if you want to process things in real time, then you have to pay attention to your processor specification.
 
 ### Multi-Core Processors
-Processors can have multiple cores. And so that means you have a processor within that unit you have subunits too. So it could be:
+Processors can have multiple cores, which means that within a single processor, there are several subunits. These can be:
 - Three subunits
 - Four subunits
 - Eight subunits within a particular processor
 
-**Objective**: The objective is to split processing or enhance performance. And so you want to render things in real time.
+**Objective**: The objective is to split processing tasks and enhance performance. This way, you can render things in real time.
 
 ### How Multi-Core Processing Works
 Once instructions come from your operating system, for example, that instructions are distributed among the subunits of a particular processor. For example, the Intel Core i7 processor, which has four cores.
