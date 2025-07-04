@@ -5,11 +5,11 @@
 The processor determines how fast your computer processes instructions, isn't it? You want your application to run really fast. You want your 3D rendering to run very, very fast. You want a graphics application to render really fast.
 
 ### Why Processor Speed Matters
-So you will have to pay attention to your processor specification instructions. Instructions that you want to run pretty fast could be:
+It is important to pay attention to your processor specifications. Instructions that you want to run pretty fast could be:
 - Word editing documents
 - Processing game graphics in real time
 
-So you want to process things in real time, then you have to pay attention to your processor specification.
+So if you want to process things in real time, then you have to pay attention to your processor specification.
 
 ### Multi-Core Processors
 Processors can have multiple cores. And so that means you have a processor within that unit you have subunits too. So it could be:
