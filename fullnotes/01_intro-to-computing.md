@@ -6,7 +6,7 @@
 The history of computing started thousands of years back with the creation of the Abacus. Abacus is a simple counting device used by the ancient Egyptians and Chinese.
 
 ### Mechanical Calculators (17th Century)
-The emergence of mechanical calculators came to limelight in the 17th century. An example of a mechanical calculator is the Pascal. This device paved the way for modern computing.
+The emergence of mechanical calculators came to limelight in the 17th century. An example of a mechanical calculator is the **Pascaline**. This device paved the way for modern computing.
 
 ## Electronic Computers Era
 
