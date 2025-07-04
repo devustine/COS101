@@ -13,9 +13,9 @@ Computer hardware consists of the physical parts of the computer that we can see
 ## Components of Computer Hardware
 
 Computer hardware includes input and output devices, the CPU, memories, and storage devices. These are things we naturally can see. For example:
-- We can see the keyboard
-- If you open up a computer, you can also see the CPU and hard disk
-- We can see things connected to the computer system such as printers, which are output devices
+- We can see the keyboard.
+- If you open up a computer, you can also see the CPU and hard disk.
+- We can see things connected to the computer system such as printers, which are output devices.
 
 ## The CPU (Central Processing Unit)
 
@@ -32,12 +32,12 @@ The unit of processor speed is measured in hertz. This means that it can process
 ### How the CPU Works
 These instructions are sent to the processor by the operating system. We will discuss operating systems in our next session. The processor follows these steps:
 
-1. **Decodes instructions**: Understanding the task at hand
-2. **Executes instructions**: Once decoded, it begins to execute
+1. **Decodes instructions**: Understanding the task at hand.
+2. **Executes instructions**: Once decoded, it begins to execute them.
 
 Just like you have an assignment before you, the first task will be to understand the assignment. Once you're able to understand the assignment, the next step will be to implement and solve that assignment.
 
-That's what the processor does - it decodes instructions and tries to understand them. Once understood, it begins to execute.
+That's what the processor does — it decodes instructions and tries to understand them. Once understood, it begins to execute.
 
 ### Modern Processors
 Modern processors can process more than a million instructions per second, which is really fast. The CPU is the central processing unit, and it sits on a motherboard.
@@ -60,9 +60,9 @@ The next hardware device we're going to discuss is Random Access Memory (RAM). L
 The processor utilizes RAM by storing information temporarily to access it quickly. Sometimes the processor performs a particular operation, and the output will be stored temporarily in RAM so that it can fetch it quickly to perform other tasks as well.
 
 ### Benefits of RAM
-- **Multi-tasking**: The RAM allows the processor to run multiple programs at once
-- **Performance**: The more RAM you have, the better your computer's performance will be
-- **Application support**: For example, you might want to run editing software, a text editor, and photo editing applications. All those applications would naturally run in RAM
+- **Multi-tasking**: RAM allows the processor to run multiple programs at once.
+- **Performance**: The more RAM you have, the better your computer's performance will be.
+- **Application support**: For example, you might want to run editing software, a text editor, and photo editing applications. All those applications would naturally run in RAM.
 
 ### RAM Functionality
 From there, your processor can fetch those instructions to process. The more RAM you have, the more applications you can run. Whatever you have in RAM, once you shut down your computer, that information will be lost.
@@ -82,7 +82,7 @@ RAM capacity is measured in bytes. A 16-megabyte RAM can hold about 16,000 bytes
 
 ## Storage Devices - Hard Disks
 
-Now let's look at storage devices - hard disk drives.
+Now let's look at storage devices — hard disk drives.
 
 ### Permanent Storage
 Hard disks store information permanently. Typically, if your hard disk is healthy, you'll store information there forever.
@@ -101,9 +101,9 @@ Most of these are stored permanently on the hard disk. These files can last for 
 
 ### RAM vs Hard Disk Storage
 **RAM**: Once you shut down your computer, the information you have in RAM will disappear. For example:
-- Editing software you're using to edit a particular photo
-- Videos you're watching
-- Series you're watching
+- Editing software you're using to edit a particular photo.
+- Videos you're watching.
+- Series you're watching.
 
 Once you shut down the computer or turn off the power, these files would move from RAM.
 
@@ -114,15 +114,15 @@ Once you shut down the computer or turn off the power, these files would move fr
 There are two kinds of hard disks: Hard Disk Drives (HDD) and Solid State Drives (SSD).
 
 ### HDDs (Hard Disk Drives)
-- **Movable parts**: Have a head that reads and writes information on the disc
-- **Sound**: Sometimes you hear your computer making a particular sound - that's the head trying to retrieve information from where a particular file is written so you can see and retrieve that file
-- **Susceptible to damage**: Because of these movable parts, HDDs are susceptible to damage since they move a lot during operation
+- **Movable parts**: Have a head that reads and writes information on the disc.
+- **Sound**: Sometimes you hear your computer making a particular sound — that's the head trying to retrieve information from where a particular file is written so you can see and retrieve that file.
+- **Susceptible to damage**: Because of these movable parts, HDDs are susceptible to damage since they move a lot during operation.
 
 ### SSDs (Solid State Drives)
-- **No movable parts**: Do not have any movable parts
-- **Technology**: Use integrated circuits
-- **Durability**: Last longer because they don't have movable parts
-- **Cost**: However, they're really expensive - very expensive
+- **No movable parts**: Do not have any movable parts.
+- **Technology**: Use integrated circuits.
+- **Durability**: Last longer because they don't have movable parts.
+- **Cost**: However, they're really expensive — very expensive.
 
 ### Storage Capacity
 The capacity of storage devices is usually measured in bytes. A hard disk with a capacity of 50 megabytes can store information of size 50,000 bytes.
@@ -134,12 +134,12 @@ The capacity of storage devices is usually measured in bytes. A hard disk with a
 Input devices allow information to flow into the computer.
 
 ### Types of Input Devices
-- **Keyboards**: For typing letters, doing research, or typing in Word documents
-- **Stylus pens**: For electronic signatures that can be input into the computer (for example, when applying for a passport, you would have to sign, and that signature will be stored in the computer and attached to your passport)
-- **Mouse**: Can be wireless or connected with a cable to the computer
+- **Keyboards**: For typing letters, doing research, or typing in Word documents.
+- **Stylus pens**: For electronic signatures that can be input into the computer (for example, when applying for a passport, you would have to sign, and that signature will be stored in the computer and attached to your passport).
+- **Mouse**: Can be wireless or connected with a cable to the computer.
 
 ### How Input Devices Work
-When you type on the keyboard - whether you're writing a letter, doing research, or typing in a Word document - that information naturally flows into the computer, and you see the output on the monitor.
+When you type on the keyboard — whether you're writing a letter, doing research, or typing in a Word document — that information naturally flows into the computer, and you see the output on the monitor.
 
 Your mouse allows you to move cursors, and the outputs can be seen on the monitor. Stylus pens can be used for electronic signatures, which will be reflected on the monitor. When you type keys, that would also be reflected in documents or Word documents.
 
@@ -148,9 +148,9 @@ Your mouse allows you to move cursors, and the outputs can be seen on the monito
 Devices like printers, speakers, and monitors are called output devices because they allow information to flow out of a computer system.
 
 ### Types of Output Devices
-- **Speakers**: When you connect audio to your computer, that sound is reflected through your speaker
-- **Printers**: You would send documents to your printer from your computer, which prints them out
-- **Monitors**: Input from your keyboard is reflected on your monitor
+- **Speakers**: When you connect audio to your computer, that sound is reflected through your speaker.
+- **Printers**: You would send documents to your printer from your computer, which prints them out.
+- **Monitors**: Input from your keyboard is reflected on your monitor.
 
 ## Read-Only Memory (ROM)
 
@@ -158,8 +158,8 @@ We're also looking at Read-Only Memory (ROM). ROM is a kind of memory that store
 
 ### What ROM Stores
 This includes data such as:
-- How a computer will boot
-- Where the computer will find the hard disk to load the operating system that will manage all the hardware devices attached to your computer
+- How a computer will boot.
+- Where the computer will find the hard disk to load the operating system that will manage all the hardware devices attached to your computer.
 
 You have that kind of configuration embedded in your ROM.
 
@@ -170,8 +170,8 @@ The BIOS is software that resides in the ROM and ensures that computer hardware 
 
 #### How BIOS Works
 When you turn on your computer, the first thing that happens is that the BIOS will:
-1. **Inspect your hardware**: Check the RAM, hard disk to ensure they are working properly
-2. **Load the operating system**: Once that test is passed, it begins to load the operating system
+1. **Inspect your hardware**: Check the RAM, hard disk to ensure they are working properly.
+2. **Load the operating system**: Once that test is passed, it begins to load the operating system.
 
 We will discuss operating systems in our next session. That's the function of the BIOS software that resides in the ROM.
 
@@ -181,11 +181,11 @@ The power unit supplies power to all the components that require power.
 
 ### What the Power Unit Powers
 This includes:
-- The fan that cools the operating system and processor
-- Other key components such as the processor itself
+- The fan that cools the operating system and processor.
+- Other key components such as the processor itself.
 
 These components require power, and the power unit naturally supplies power to those parts so they can carry out their functions.
 
 ### Power Sources
-- **Laptops**: You would find batteries that provide power from the battery source
-- **Desktop computers**: The power unit is usually seen as an external component
+- **Laptops**: You would find batteries that provide power from the battery source.
+- **Desktop computers**: The power unit is usually seen as an external component.
