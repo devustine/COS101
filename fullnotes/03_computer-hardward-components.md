@@ -82,8 +82,6 @@ RAM capacity is measured in bytes. A 16-megabyte RAM can hold about 16,000 bytes
 
 ## Storage Devices - Hard Disks
 
-Now let's look at storage devices — hard disk drives.
-
 ### Permanent Storage
 Hard disks store information permanently. Typically, if your hard disk is healthy, you'll store information there forever.
 
@@ -173,7 +171,7 @@ When you turn on your computer, the first thing that happens is that the BIOS wi
 1. **Inspect your hardware**: Check the RAM, hard disk to ensure they are working properly.
 2. **Load the operating system**: Once that test is passed, it begins to load the operating system.
 
-We will discuss operating systems in our next session. That's the function of the BIOS software that resides in the ROM.
+That's the function of the BIOS software that resides in the ROM.
 
 ## Power Unit
 
