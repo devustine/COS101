@@ -32,7 +32,7 @@ Instructions could be from:
 Those instructions go into this processor and instructions are distributed among the subunits within a particular processor, in this case i7, which has four subunits.
 
 ### Processor Speed Measurement
-So I think we discussed this earlier as the unit of a processor speed is measured in hertz. And so we mentioned this - this measurement measures the amount of instructions they can process per second. So the units of a processor speed measurement is hertz. Remember that?
+This measurement measures the amount of instructions they can process per second. So the units of a processor speed measurement is hertz. Remember that?
 
 #### Modern Processor Speeds
 So these days, an i7 processor has a speed of about four gigahertz. Yeah, I'm sure you can imagine that speed. This means it can process about 4 billion instructions per second. That's amazing. Again, it means it can process about 4 billion instructions per second. And so that is coming from a typical i7 processor.
